@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570109170692",
+    "project_id": "farmtopia-task-cb4f9",
+    "storage_bucket": "farmtopia-task-cb4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570109170692:android:fad5d9fbcc60abe2ce9151",
+        "android_client_info": {
+          "package_name": "farmtopia.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH_mGzeNmoNLKVsmLonSz8Kd3tZu3ik8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
